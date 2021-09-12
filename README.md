@@ -4,6 +4,9 @@ This Nanodegree is designed to teach foundational data skills that are applicabl
 
 # Content
 Project 1: Interpret a Data Visualization
+
 Project 2: Analyze NYSE Data
+
 Project 3: Predicting Diamond Prices
+
 Project 4: Build Data Dashboards
